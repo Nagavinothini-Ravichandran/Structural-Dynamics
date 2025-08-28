@@ -6,3 +6,5 @@ Each script is: (i) Self-descriptive — well-commented with clear explanations 
 Topics to be covered: Free and forced vibration analysis, Modal analysis, Damping models, Time history and frequency domain analysis, Nonlinear structural dynamics, and Response spectrum methods
 
 Goal: The objective is to develop a resource that is conducive to learning, reproducible, and oriented towards practical application, effectively bridging the divide between theoretical concepts and their computational implementation in the field of structural dynamics.
+
+Check out: MATLAB codes for Central Difference Method, and Newmark's Beta Method.
